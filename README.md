@@ -21,4 +21,4 @@ Excel: For initial data exploration and cleaning.
 
 This project demonstrates my ability to turn complex data sets into actionable insights, supporting decision-making processes. I'm excited to apply these skills in real-world scenarios and contribute to data-driven strategies.
 
-# do find my project work at: https://mavenanalytics.io/project/18055
+# Do find my project work at: https://mavenanalytics.io/project/18055
